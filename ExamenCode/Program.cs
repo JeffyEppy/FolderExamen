@@ -23,5 +23,6 @@ public class Movie
         Console.WriteLine($"This movie is called {Title}.");
         Console.WriteLine($"It belongs to the {Genre} genre.");
         Console.WriteLine($"The movie lasts {DurationInMinutes} minutes.");
+        Console.WriteLine($"The minimum age limit for this movie is {AgeLimit} years.");
     }
 }
