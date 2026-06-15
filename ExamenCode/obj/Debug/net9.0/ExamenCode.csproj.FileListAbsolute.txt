@@ -1,0 +1,15 @@
+C:\FolderExamen\ExamenCode\bin\Debug\net9.0\ExamenCode.exe
+C:\FolderExamen\ExamenCode\bin\Debug\net9.0\ExamenCode.deps.json
+C:\FolderExamen\ExamenCode\bin\Debug\net9.0\ExamenCode.runtimeconfig.json
+C:\FolderExamen\ExamenCode\bin\Debug\net9.0\ExamenCode.dll
+C:\FolderExamen\ExamenCode\bin\Debug\net9.0\ExamenCode.pdb
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.AssemblyInfoInputs.cache
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.AssemblyInfo.cs
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.csproj.CoreCompileInputs.cache
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.sourcelink.json
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.dll
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\refint\ExamenCode.dll
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.pdb
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ExamenCode.genruntimeconfig.cache
+C:\FolderExamen\ExamenCode\obj\Debug\net9.0\ref\ExamenCode.dll
