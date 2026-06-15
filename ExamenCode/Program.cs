@@ -20,8 +20,8 @@ public class Movie
 
     public void ShowInfo()
     {
-        Console.WriteLine($"Title: {Title}");
-        Console.WriteLine($"Genre: {Genre}");
-        Console.WriteLine($"Duration: {DurationInMinutes} minutes");
+        Console.WriteLine($"This movie is called {Title}.");
+        Console.WriteLine($"It belongs to the {Genre} genre.");
+        Console.WriteLine($"The movie lasts {DurationInMinutes} minutes.");
     }
 }
